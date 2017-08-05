@@ -1,0 +1,7 @@
+« :ref:`api`
+
+.. title:: gmt.clib.call_module
+
+.. currentmodule:: gmt.clib
+
+.. autofunction:: call_module

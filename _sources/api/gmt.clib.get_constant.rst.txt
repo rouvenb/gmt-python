@@ -1,0 +1,7 @@
+« :ref:`api`
+
+.. title:: gmt.clib.get_constant
+
+.. currentmodule:: gmt.clib
+
+.. autofunction:: get_constant

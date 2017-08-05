@@ -1,0 +1,9 @@
+« :ref:`api`
+
+.. title:: gmt.clib.APISession
+
+.. currentmodule:: gmt.clib
+
+.. autoclass:: APISession
+    :members:
+    :inherited-members:

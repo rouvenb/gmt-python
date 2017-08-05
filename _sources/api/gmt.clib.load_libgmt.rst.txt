@@ -1,0 +1,7 @@
+« :ref:`api`
+
+.. title:: gmt.clib.load_libgmt
+
+.. currentmodule:: gmt.clib
+
+.. autofunction:: load_libgmt
